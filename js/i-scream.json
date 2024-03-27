@@ -1,0 +1,42 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [{
+            "name": "Chocolate Mint",
+            "calories": 200,
+            "type": "ice-cream",
+            "ingredients": ["Chocolate Syrup", "Peppermint Sprinkle", "Vanilla Base"],
+            "image": "./images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 250,
+            "type": "milkshake-type ice-cream",
+            "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+            "image": "./images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 300,
+            "type": "milkshake-ice-cream",
+            "ingredients": ["Strawberry Syrup", "Sprinkles", "Vanilla Base", "Chocolate Syrup"],
+            "image": "./images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Green tea with Cadbury Eggs",
+            "calories": 290,
+            "type": "milkshake-ice-cream",
+            "ingredients": ["Green Tea syrup ", "Cadbury Eggs","ice-cream","waffle cone"],
+            "image": "./images/Green-Tea.svg"
+        },
+        {
+            "name": " Mango Chocolate Chip",
+            "calories": 270,
+            "type": "ice-cream",
+            "ingredients": ["Mango ice-cream","chocolate-chuncks","waffle cone"],
+            "image": "./images/Mango-chocolate.svg"
+        }
+    ]
+}
